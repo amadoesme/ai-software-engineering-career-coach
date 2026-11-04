@@ -116,7 +116,7 @@ This helped me better understand how my current technical experience connects to
 
 **Screenshot:**
 
-![Career Guidance](screenshots/career-guidance.jpeg)
+![Carrer Guidance](screenshots/carrer-guidance.jpeg)
 
 ### Example 2: Mock Technical Interview
 
@@ -178,7 +178,7 @@ I found this useful because it organized career preparation into smaller steps t
 
 **Screenshot:**
 
-![Career Action Plan](screenshots/career-plan.jpeg)
+![Carrer Action Plan](screenshots/carrer-plan.jpeg)
 
 ## 6. Testing and Improvements
 
